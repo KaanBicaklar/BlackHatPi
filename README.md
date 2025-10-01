@@ -43,6 +43,9 @@ All models are included in the `/3d-models` directory.
 1. Flash Kali Linux ARM image onto the microSD card.  
 2. Install required Python libraries:  
    ```bash
-chmod +x installer.sh
-./installer.sh
+   
+   chmod +x installer.sh
+   ./installer.sh
+
+
 
